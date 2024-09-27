@@ -25,13 +25,19 @@ All datasets exist within the dannys_diner database schema - be sure to include 
 
 Table 1: sales
 The sales table captures all customer_id level purchases with an corresponding order_date and product_id information for when and what menu items were ordered.
+
 ![Screenshot 2024-09-27 112313](https://github.com/user-attachments/assets/1f937e51-f8b1-4106-a39a-b2da9ae09dac)
 
 Table 2: menu
 The menu table maps the product_id to the actual product_name and price of each menu item.
 
+![Screenshot 2024-09-27 112527](https://github.com/user-attachments/assets/6cddfcbc-75ff-469d-9a12-eea82f84355b)
 
 Table 3: members
 The final members table captures the join_date when a customer_id joined the beta version of the Danny’s Diner loyalty program.
 
+![Screenshot 2024-09-27 112602](https://github.com/user-attachments/assets/e3c1d230-38a3-45c8-9436-c6d25be65595)
 
+
+
+![Screenshot 2024-09-27 112656](https://github.com/user-attachments/assets/c061bc64-b18d-4d7e-a70f-f5b6aa088400)
